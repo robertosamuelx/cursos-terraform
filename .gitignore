@@ -1,0 +1,5 @@
+.terraform*
+new_user_credentials.csv
+terraform-aws.pub
+terraform.exe
+terraform.tfstate*
